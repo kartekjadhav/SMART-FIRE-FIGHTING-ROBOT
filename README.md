@@ -1,2 +1,4 @@
 # SMART-FIRE-FIGHTING-ROBOT
-In this saftey system SMS sent to the predefined contact by pressing the switch with message shown as “EMERGENCY SITUATION HELP ME" with Latitude and Longitude of the victim.
+A smart fire fighting robot built on a microcontroller based platform Arduino Uno board which is interfaced with flame Sensor which can gives the status of the fire present in what direction to the municipal . 
+ 
+ 
